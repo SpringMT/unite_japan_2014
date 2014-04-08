@@ -1,6 +1,7 @@
 # Unite Japan 2014
 * Unite Japan 2041のまとめ
 	* http://japan.unity3d.com/unite/unite2014/
+* RP issue大歓迎です！
 
 ### 記事
 * [【Unite Japan 2014】超日本びいきのOculus VR創設者Palmer Luckey氏インタビュー](http://game.watch.impress.co.jp/docs/news/20140408_643230.html)
